@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745003602566",
+    "project_id": "loginandroid-b8246",
+    "storage_bucket": "loginandroid-b8246.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745003602566:android:32155116637a6c6adaf707",
+        "android_client_info": {
+          "package_name": "com.example.firebaseiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeqS2sp2JSeIKHqDzYRvxYAp3SpOlp6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
